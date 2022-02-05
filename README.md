@@ -8,33 +8,39 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
 - 🥅 2022 Goals: Learn as much as I can and build a beutiful project
 - ⚡ Fun fact: I like doing sports!
 
+</br>
+
 ### How to reach me:
 
 <a href="https://www.linkedin.com/in/patrykrasiak/">
-  <img align="left" alt="Patryk Rasiak | LinkedIn" width="22px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/facebook.png" />
+  <img align="left" alt="Patryk Rasiak | LinkedIn" width="22px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/facebook.png" />
 </a>
 <a href="https://www.facebook.com/patryk.rasiak.92/">
-  <img align="left" alt="Patryk Rasiak | Facebook" width="22px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/facebook.png" />
+  <img align="left" alt="Patryk Rasiak | Facebook" width="22px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/facebook.png" />
 </a>
 <a href="patryk01r@gmail.com">
-  <img align="left" alt="Patryk Rasiak | Gmail" width="22px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/gmail.png" />
+  <img align="left" alt="Patryk Rasiak | Gmail" width="22px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/gmail.png" />
 </a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
+</br>
+</br>
+
 ### Languages and Tools:
 
 <div align="left">
-  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/python.png" alt="website" width="40"/>
-
-  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/numpy.png" alt="website" width="40"/>
-  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/java.png" alt="website" width="40"/>
-  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/git.png" alt="website" width="40"/>
-  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/terminal.png" alt="website" width="40"/>
-  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/vscode.png" alt="website" width="40"/>
-  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/django.png" alt="website" width="40"/>
-  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/html.png" alt="website" width="40"/>
-  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/css.png" alt="website" width="40"/>
+  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/python.png" alt="website" width="40"/>
+  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/django.png" alt="website" width="40"/>
+  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/numpy.png" alt="website" width="40"/>
+  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/html.png" alt="website" width="40"/>
+  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/css.png" alt="website" width="40"/>
+  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/java.png" alt="website" width="40"/>
+  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/git.png" alt="website" width="40"/>
+  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/terminal.png" alt="website" width="40"/>
+  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/vscode.png" alt="website" width="40"/>
+  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/ocaml.png" alt="website" width="40"/>
+  
 </div>
 
 ## My github stats:
