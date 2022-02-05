@@ -8,13 +8,10 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
 - 🥅 2022 Goals: Learn as much as I can and build a beutiful project
 - ⚡ Fun fact: I like doing sports!
 
-
 </br>
 </br>
-
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 
 ### How to reach me:
 
