@@ -9,6 +9,7 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
 - ⚡ Fun fact: I like doing sports!
 
 </br>
+</br>
 
 ### How to reach me:
 
@@ -52,6 +53,10 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/ocaml.png" alt="website" width="40"/>
   
 </div>
+
+</br>
+</br>
+</br>
 
 ## My github stats:
 
