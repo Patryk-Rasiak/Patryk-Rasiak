@@ -21,7 +21,7 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
 <a href="https://www.facebook.com/patryk.rasiak.92/">
   <img align="left" alt="Patryk Rasiak | Facebook" width="40px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/facebook.png" />
 </a>
-<a href="patryk01r@gmail.com">
+<a href="mailto:patryk01r@gmail.com">
   <img align="left" alt="Patryk Rasiak | Gmail" width="40px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/gmail.png" />
 </a>
 
