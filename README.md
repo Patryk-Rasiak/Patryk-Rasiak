@@ -13,13 +13,13 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
 ### How to reach me:
 
 <a href="https://www.linkedin.com/in/patrykrasiak/">
-  <img align="left" alt="Patryk Rasiak | LinkedIn" width="22px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/facebook.png" />
+  <img align="left" alt="Patryk Rasiak | LinkedIn" width="40px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/patryk.rasiak.92/">
-  <img align="left" alt="Patryk Rasiak | Facebook" width="22px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/facebook.png" />
+  <img align="left" alt="Patryk Rasiak | Facebook" width="40px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/facebook.png" />
 </a>
 <a href="patryk01r@gmail.com">
-  <img align="left" alt="Patryk Rasiak | Gmail" width="22px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/gmail.png" />
+  <img align="left" alt="Patryk Rasiak | Gmail" width="40px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/gmail.png" />
 </a>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -30,15 +30,25 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
 ### Languages and Tools:
 
 <div align="left">
+  
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/python.png" alt="website" width="40"/>
+  
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/django.png" alt="website" width="40"/>
+  
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/numpy.png" alt="website" width="40"/>
+  
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/html.png" alt="website" width="40"/>
+  
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/css.png" alt="website" width="40"/>
+  
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/java.png" alt="website" width="40"/>
+  
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/git.png" alt="website" width="40"/>
+  
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/terminal.png" alt="website" width="40"/>
+  
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/vscode.png" alt="website" width="40"/>
+  
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/ocaml.png" alt="website" width="40"/>
   
 </div>
