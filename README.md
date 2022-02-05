@@ -59,8 +59,7 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
 
 </br>
 </br>
-
-
+</br>
 
 ## My github stats:
 
