@@ -31,7 +31,7 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/java.png" alt="website" width="40"/>
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/git.png" alt="website" width="40"/>
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/terminal.png" alt="website" width="40"/>
-  <img src="https://github.com/Kamil-Herbetko/Kamil-Herbetko/blob/main/icons/vscode.png" alt="website" width="40"/>
+  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/vscode.png" alt="website" width="40"/>
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/django.png" alt="website" width="40"/>
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/html.png" alt="website" width="40"/>
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/main/icons/css.png" alt="website" width="40"/>
