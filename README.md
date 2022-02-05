@@ -9,7 +9,6 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
 - ⚡ Fun fact: I like doing sports!
 
 </br>
-</br>
 
 ### How to reach me:
 
@@ -23,10 +22,10 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
   <img align="left" alt="Patryk Rasiak | Gmail" width="40px" src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/gmail.png" />
 </a>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</br>
+</br>
 
-</br>
-</br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Languages and Tools:
 
@@ -54,8 +53,6 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
   
 </div>
 
-</br>
-</br>
 </br>
 
 ## My github stats:
