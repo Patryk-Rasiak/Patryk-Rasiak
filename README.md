@@ -6,7 +6,7 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
 - 🌱 I’m currently learning Python Backend Development
 - 👯 I’m looking for development opportunities
 - 🥅 2022 Goals: Learn as much as I can and build a beautiful project
-- ⚡ Fun fact: I like doing sports!
+- ⚡ Fun fact: I love doing sports!
 
 </br>
 </br>
