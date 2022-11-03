@@ -34,7 +34,6 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
   
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/django.png" alt="website" width="40"/>
   
-  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/numpy.png" alt="website" width="40"/>
   
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/html.png" alt="website" width="40"/>
   
@@ -48,7 +47,6 @@ I'm Patryk, a second year student of Applied Computer Science at Politechnika Wr
   
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/vscode.png" alt="website" width="40"/>
   
-  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/ocaml.png" alt="website" width="40"/>
   
 </div>
 
