@@ -1,10 +1,6 @@
 ### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm Patryk, a second year student of Applied Computer Science at Politechnika Wrocławska.
-
-- 🔭 I am currently working on Chat App in Django!
-- 🌱 I’m currently learning Python Backend Development
-- 🥅 2022 Goals: Learn as much as I can and build a beautiful project
+I'm Patryk, a third year student of Applied Computer Science at Politechnika Wrocławska.
 
 </br>
 </br>
