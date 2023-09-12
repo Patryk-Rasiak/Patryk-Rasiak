@@ -1,6 +1,4 @@
-### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-I'm Patryk
+### Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Patryk
 
 </br>
 </br>
@@ -35,13 +33,9 @@ I'm Patryk
   
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/css.png" alt="website" width="40"/>
   
-  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/java.png" alt="website" width="40"/>
-  
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/git.png" alt="website" width="40"/>
   
   <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/terminal.png" alt="website" width="40"/>
-  
-  <img src="https://github.com/Patryk-Rasiak/Patryk-Rasiak/blob/master/icons/vscode.png" alt="website" width="40"/>
   
   
 </div>
